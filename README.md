@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/huonttran#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://github.com/huongttran/huongttran/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>
