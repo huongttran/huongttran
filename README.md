@@ -11,9 +11,9 @@
 </div>
 
 ### About me
-👩‍🎓 Final-year Investment Finance student turned Data Analytics enthusiast, exploring how data can reshape investment and corporate decisions.
+👩‍🎓 Final-year Finance student turned Data Analytics enthusiast, exploring how data can reshape investment and corporate decisions.
 
-💼 With a background in Investment and Financial Analysis**, I dive into FinTech, corporate governance, and behavioral finance, transforming complex datasets into insights that matter.
+💼 With a background in Investment and Financial Analysis, I dive into FinTech, corporate governance, and behavioral finance, transforming complex datasets into insights that matter.
 
 💡 I believe that *“Data only becomes valuable when it’s correctly understood and wisely used”* — and that belief keeps me inspired every day.
 
