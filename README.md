@@ -1,11 +1,9 @@
-<h1 align="center"> Hello Everyone 👋</h1>
+<h1 align="center"> Hello Everyone! 👋</h1>
 
-<h3 align="center">I'm Huong and welcome to my GitHub profile</h3>
+<h3 align="center">✨I'm Huong and welcome to my GitHub profile✨</h3>
 
-<br>
-
-<img  alt="GIF" src=".github/IMG/sun.gif" width="150">
-
+<div align="center">
+  <img alt="GIF" src=".github/IMG/sun.gif" width="150">
 </div>
 
 ### About me
