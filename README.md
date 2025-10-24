@@ -1,16 +1,13 @@
 <h1 align="center"> Hello Everyone! 👋</h1>
 
-<h3 align="center">✨I'm Huong and welcome to my GitHub profile✨</h3>
-
 <div align="center">
   <img alt="GIF" src=".github/IMG/sun.gif" width="150">
 </div>
 
+<h3 align="center">✨I'm Huong and welcome to my GitHub profile✨</h3>
+
 <br>
-
-<img align="right" height="350" width="400" alt="GIF" src=".github/IMG/brain.gif" />
-
-
+<img align="right" height="350" width="380" alt="GIF" src=".github/IMG/dontgiveup.gif" />
 </div>
 
 ### About me
