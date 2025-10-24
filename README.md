@@ -7,7 +7,7 @@
 <h3 align="center">✨I'm Huong and welcome to my GitHub profile✨</h3>
 
 <br>
-<img align="right" height="350" width="380" alt="GIF" src=".github/IMG/dontgiveup.gif" />
+<img align="right" height="250" width="375 alt="GIF" src=".github/IMG/dontgiveup.gif" />
 </div>
 
 ### About me
