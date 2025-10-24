@@ -15,7 +15,7 @@
 
 💼 With a background in Investment and Financial Analysis, I dive into FinTech, corporate governance, and behavioral finance, transforming complex datasets into insights that matter.
 
-💡 I believe that *“Data only becomes valuable when it’s correctly understood and wisely used”* — and that belief keeps me inspired every day.
+💡 I believe that *“Data only becomes valuable when it’s correctly understood and wisely used”* and that belief keeps me inspired every day.
 
 ## Languages and Tools
 <div align="left"> 
