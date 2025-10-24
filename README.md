@@ -18,8 +18,9 @@
 💡 I believe that *“Data only becomes valuable when it’s correctly understood and wisely used”* — and that belief keeps me inspired every day.
 
 ## Languages and Tools
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://coccoc.com/search?query=chat+gpt)
 
 **Also comfortable with**: SQL (BigQuery), Basic ML workflows.
 
