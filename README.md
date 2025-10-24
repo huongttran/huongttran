@@ -2,6 +2,12 @@
 
 <h3 align="center">I'm Huong and welcome to my GitHub profile</h3>
 
+<br>
+
+<img  alt="GIF" src=".github/IMG/sun.gif" width="150">
+
+</div>
+
 ### About me
 Coming from a **Finance** background, I soon realized the power of data in driving smarter decisions and improving risk management. That realization sparked my journey into **Data Analytics** and **Quantitative Finance**, where I combine analytical thinking, data tools, and storytelling through numbers.
 
