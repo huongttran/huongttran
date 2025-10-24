@@ -19,7 +19,7 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,python,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://coccoc.com/search?query=chat+gpt)
 
 **Also comfortable with**: SQL (BigQuery), Basic ML workflows.
 
