@@ -18,13 +18,13 @@
 💡 I believe that *“Data only becomes valuable when it’s correctly understood and wisely used”* — and that belief keeps me inspired every day.
 
 ## Languages and Tools
-
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src=".github/IMG/MySQL-Light.svg" alt="MySQL" height="50" />
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src=".github/IMG/Python-Light.svg" alt="Python" height="50" /> 
+<div align="left"> 
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src=".github/IMG/MySQL-Light.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src=".github/IMG/Python-Light.svg" alt="Python" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src=".github/IMG/Figma-Light.svg" alt="Figma" height="50" /></a>  
+</div>
 
-
-**Also comfortable with**: SQL (BigQuery), Basic ML workflows.
+**Also comfortable with:** SQL (BigQuery), Power BI for data visualization and basic ML workflows.
 
 
 
