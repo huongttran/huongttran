@@ -11,9 +11,9 @@
 </div>
 
 ### About me
-Coming from a **Finance** background, I soon realized the power of data in driving smarter decisions and improving risk management. That realization sparked my journey into **Data Analytics** and **Quantitative Finance**, where I combine analytical thinking, data tools, and storytelling through numbers.
+👩‍🎓 **Final-year Investment Finance student** turned **Data Analytics enthusiast**, exploring how data can reshape investment and corporate decisions.
 
-📚 I enjoy exploring corporate data, especially in **FinTech, financial behavior analysis**, and **corporate governance efficiency**. I’m currently enhancing my skills in **SQL, BigQuery, Power BI, and Stata** to turn complex datasets into clear, actionable insights.
+💼 With a background in **Investment and Financial Analysis**, I dive into **FinTech, corporate governance, and behavioral finance**, transforming complex datasets into insights that matter.
 
 💡 I believe that *“Data only becomes valuable when it’s correctly understood and wisely used”* — and that belief keeps me inspired every day.
 
