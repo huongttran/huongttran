@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" height="450" width="400" alt="GIF" src=".github/IMG/w-seach.gif" />
+<img align="right" height="350" width="400" alt="GIF" src=".github/IMG/brain.gif" />
 
 
 </div>
