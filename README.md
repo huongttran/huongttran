@@ -6,6 +6,13 @@
   <img alt="GIF" src=".github/IMG/sun.gif" width="150">
 </div>
 
+<br>
+
+<img align="right" height="450" width="400" alt="GIF" src=".github/IMG/w-seach.gif" />
+
+
+</div>
+
 ### About me
 Coming from a **Finance** background, I soon realized the power of data in driving smarter decisions and improving risk management. That realization sparked my journey into **Data Analytics** and **Quantitative Finance**, where I combine analytical thinking, data tools, and storytelling through numbers.
 
